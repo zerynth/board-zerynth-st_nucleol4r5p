@@ -1,1 +1,0 @@
-# board-zerynth-st_nucleol4r5p
